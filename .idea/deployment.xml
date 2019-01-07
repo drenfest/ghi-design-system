@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="github.com" uploadOnCheckin="f5730a0d-14ab-4fac-a65c-eef53bb31210">
+    <serverData>
+      <paths name="github.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ghwebsolutions/public_html/repo/ghi-design-system" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="github.com" />
+  </component>
+</project>

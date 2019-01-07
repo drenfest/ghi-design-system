@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b728ca5-50e4-4fd2-a6f8-6dce4279aeb1" name="Default Changelist" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/ghi-design-system/build/build-system.js" beforeDir="false" afterPath="$PROJECT_DIR$/ghi-design-system/build/build-system.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-design-system" beforeDir="false" />
+    <list default="true" id="5b728ca5-50e4-4fd2-a6f8-6dce4279aeb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ghi-design-system" beforeDir="false" afterPath="$PROJECT_DIR$/ghi-design-system" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ghi-design-system/.cpanel.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ghi-design-system/.cpanel.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ghi-design-system/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ghi-design-system/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,8 +57,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ghi-design-system/.cpanel.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ghi-design-system/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="2" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -93,6 +110,8 @@
         <option value="$PROJECT_DIR$/vue-design-system/src/App.vue" />
         <option value="$PROJECT_DIR$/vue-design-system/src/templates/Index.vue" />
         <option value="$PROJECT_DIR$/vue-design-system/src/patterns/GhiSideDrawer.vue" />
+        <option value="$PROJECT_DIR$/ghi-design-system/.cpanel.yml" />
+        <option value="$PROJECT_DIR$/ghi-design-system/.gitignore" />
       </list>
     </option>
   </component>
@@ -165,7 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546832614532</updated>
       <workItem from="1546832616459" duration="1081000" />
-      <workItem from="1546833948705" duration="9619000" />
+      <workItem from="1546833948705" duration="11745000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1546844532545</created>
@@ -174,18 +193,33 @@
       <option name="project" value="LOCAL" />
       <updated>1546844532545</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1546848471887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546848471887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1546849207694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546849207694</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10700000" />
+    <option name="totallyTimeSpent" value="12826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="163" y="27" width="1117" height="773" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20590869" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21475257" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" sideWeight="0.49953315" weight="0.3416149" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49955237" weight="0.3298351" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -194,8 +228,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.5711728" weight="0.32833582" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986571" weight="0.31934032" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50044763" side_tool="true" visible="true" weight="0.3298351" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49673203" visible="true" weight="0.318323" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.503268" side_tool="true" visible="true" weight="0.318323" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -263,6 +297,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ghi-design-system/src/templates/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#!!top" expanded="true" />
+            <element signature="n#docs#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghi-design-system/.cpanel.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghi-design-system/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ghi-design-system/src/patterns/GhiSideDrawer.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
@@ -284,20 +343,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ghi-design-system/src/templates/Index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#!!top" expanded="true" />
-            <element signature="n#docs#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ghi-design-system/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ghi-design-system/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">

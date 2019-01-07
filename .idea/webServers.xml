@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f5730a0d-14ab-4fac-a65c-eef53bb31210" name="github.com" url="https://github.com/drenfest/ghi-design-system">
+        <fileTransfer host="server.imsserver1.com" port="22" rootFolder="/home/ghwebsolutions" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
